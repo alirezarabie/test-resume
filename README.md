@@ -10,6 +10,7 @@
 1. download the project and go its directory
 2. run "npm install"
 3. run "npm run dev"
+4. open your browser and go to "http://localhost:5173"
 
 # to build
 
